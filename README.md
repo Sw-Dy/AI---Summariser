@@ -1,4 +1,4 @@
-# Text Summarization Project
+# Advanced Multi-Modal Summarization Project
 
 This project provides a comprehensive text summarization solution with advanced NLP capabilities, evaluation metrics, and a web interface for easy use.
 
