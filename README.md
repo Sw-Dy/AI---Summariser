@@ -293,6 +293,30 @@ This visualization compares the word frequency distributions in summaries genera
 
 This diagram illustrates the semantic relationships between concepts in the original text and how they're preserved in the generated summaries.
 
+## Screenshots
+
+### Screenshot 1
+![Screenshot 2025-05-10 024023](./Screenshot%202025-05-10%20024023.png)
+
+### Screenshot 2
+![Screenshot 2025-05-10 222605](./Screenshot%202025-05-10%20222605.png)
+
+### Screenshot 3
+![Screenshot 2025-05-10 222612](./Screenshot%202025-05-10%20222612.png)
+
+### Screenshot 4
+![Screenshot 2025-05-10 222624](./Screenshot%202025-05-10%20222624.png)
+
+### Screenshot 5
+![Screenshot 2025-05-10 222714](./Screenshot%202025-05-10%20222714.png)
+
+### Screenshot 6
+![Screenshot 2025-05-10 222734](./Screenshot%202025-05-10%20222734.png)
+
+### Screenshot 7
+![Screenshot 2025-05-10 222807](./Screenshot%202025-05-10%20222807.png)
+
+
 ## Video Summarization
 
 The project includes specialized functionality for video summarization:
